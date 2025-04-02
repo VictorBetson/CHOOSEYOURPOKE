@@ -1,1 +1,32 @@
 h1 {color:rgb(0, 0, 0)};
+
+
+/* phone */
+
+
+
+body {
+    background-color:rgb(255, 0, 0);
+  }
+  
+  h1 {
+    display:flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  p {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+ h2 {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
