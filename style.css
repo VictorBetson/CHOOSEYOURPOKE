@@ -15,6 +15,9 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    padding: 10px;
+    border-radius: 15px;
   }
 
   p {
@@ -30,18 +33,29 @@ body {
     justify-content: center;
     align-items: center;
   }
+
+ img{
+  width: 100%;
+  border-radius: 15px;
+}
+
 input {
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
+  width: 90%;
+  padding: 10px;
+  border: 2px solid #dbdbdb;
+  border-radius: 15px;
+  margin: 5px;
+}
 
   button {
-    display:flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+
+    width: 100%;
+    height: 50%;
+    padding: 15px;
+   
+    border-radius: 15px;
+  
+   
     background-color: #d22d1fff;
   border: none;
   color: black;
